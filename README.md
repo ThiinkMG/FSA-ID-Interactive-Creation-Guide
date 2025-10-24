@@ -5,7 +5,11 @@ An interactive educational tool designed to help students and parents create the
 ## 📋 Overview
 
 This project is an interactive web application that provides comprehensive guidance for creating an FSA ID, including a detailed checklist, interactive troubleshooting flowchart, and security best practices. Users can track their progress, get help with common issues, and download resources for offline use.
+### Try it out
 
+[Try FSA ID Creation Guide (Online Link)](https://thiinkmg.github.io/FSA-ID-Interactive-Creation-Guide/)
+
+---
 ## ✨ Features
 
 - **Interactive Checklist**: Step-by-step FSA ID creation checklist with progress tracking
